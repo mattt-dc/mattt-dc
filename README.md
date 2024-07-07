@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A software engineer with 8 years of experience, currently working in the finance sector as a .NET developer.</h3>
+<h3 align="center">A software engineer with 8 years of experience, currently working as a .NET developer in the finance sector.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/5543849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5543849" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matt-d-4a885b56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matt-d-4a885b56" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5543849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5543849" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,22 @@
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></a>
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattt-dc&show_icons=true&locale=en&layout=compact" alt="mattt-dc" /></p>
+<h3 align="left">My Apps:</h3>
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://github.com/mattt-dc/mattt-dc/blob/2004e35f60ff1e5112481a2eb7a88e9e0445288b/assets/icons/speechsculptorappicon.png" alt="Speech Sculptor" width="40" height="40"/>
+    </td>
+    <td valign="middle">
+      <strong>Speech Sculptor</strong> - A speech improvement app built with SwiftUI. <a href="https://apps.apple.com/us/app/speech-sculptor/id6471535541" target="_blank" rel="noreferrer">App Store Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="https://github.com/mattt-dc/mattt-dc/blob/2004e35f60ff1e5112481a2eb7a88e9e0445288b/assets/icons/mysterymeappicon.png" alt="Mystery Me" width="40" height="40"/>
+    </td>
+    <td valign="middle">
+      <strong>Mystery Me</strong> - A personality quiz app built with .NET MAUI. <a href="https://apps.apple.com/us/app/mystery-me/id6450557075" target="_blank" rel="noreferrer">App Store Link</a>
+    </td>
+  </tr>
+</table>
